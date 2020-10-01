@@ -1,0 +1,8 @@
+.Clients{
+    background: #222222;
+    height: 400px;
+}
+
+.container{
+    flex-direction: row-reverse;
+}
